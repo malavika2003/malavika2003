@@ -1,3 +1,4 @@
+```markdown
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
@@ -25,10 +26,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
-
 ## 👩‍💻 About Me
 
 - 💻 Software Developer passionate about **AI, Machine Learning & Cloud**
@@ -39,10 +36,6 @@
 - 📚 Always learning, building and experimenting
 
 ---
-
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
-<!-- ========================================================= -->
 
 ## 🌱 Currently Exploring
 
@@ -59,15 +52,11 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TECH STACK                          -->
-<!-- ========================================================= -->
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
@@ -80,7 +69,7 @@
 
 ### 🌐 Web Development
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
@@ -92,7 +81,7 @@
 
 ### 🤖 AI / Machine Learning
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
@@ -104,7 +93,7 @@
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
@@ -117,7 +106,7 @@
 
 ### 🗄️ Databases & Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
@@ -129,150 +118,136 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                   FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+<p align="center">
+  <i>A few projects I've built and experimented with.</i>
+</p>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Misinformation Truthteller
 
-<h3 align="center">🤖 Misinformation Truthteller</h3>
+AI/ML project focused on detecting misinformation using transformer-based NLP techniques.
 
-<p align="center">
-  AI/ML project focused on detecting misinformation using
-  transformer-based NLP techniques.
-</p>
+**Tech Stack**
 
-<p align="center">
-  <b>Python • NLP • Transformers • Machine Learning</b>
-</p>
+`Python` `NLP` `Transformers` `Machine Learning`
 
 <p align="center">
   <a href="https://github.com/malavika2003/MisinformationTruthteller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malavika2003&repo=MisinformationTruthteller&theme=transparent&hide_border=true" />
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🌱 OpenEnv Garbage Collector AI</h3>
+### 🌱 OpenEnv Garbage Collector AI
 
-<p align="center">
-  AI-based project exploring optimized garbage collection
-  and intelligent resource usage.
-</p>
+AI-based project exploring optimized garbage collection and intelligent resource usage.
 
-<p align="center">
-  <b>Python • AI • OpenEnv</b>
-</p>
+**Tech Stack**
+
+`Python` `AI` `OpenEnv`
 
 <p align="center">
   <a href="https://github.com/malavika2003/openEnv-garbage-collector-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malavika2003&repo=openEnv-garbage-collector-ai&theme=transparent&hide_border=true" />
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🏠 House Cost Prediction
 
-<h3 align="center">🏠 House Cost Prediction</h3>
+Machine learning project for predicting house prices.
 
-<p align="center">
-  Machine learning project for predicting house prices.
-</p>
+**Tech Stack**
 
-<p align="center">
-  <b>Python • Machine Learning • Jupyter</b>
-</p>
+`Python` `Machine Learning` `Jupyter`
 
 <p align="center">
   <a href="https://github.com/malavika2003/HouseCostPrediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malavika2003&repo=HouseCostPrediction&theme=transparent&hide_border=true" />
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🖼️ Image Classification</h3>
+### 🖼️ Image Classification
 
-<p align="center">
-  Deep learning project focused on image classification.
-</p>
+Deep learning project focused on image classification.
 
-<p align="center">
-  <b>Python • Deep Learning • Computer Vision</b>
-</p>
+**Tech Stack**
+
+`Python` `Deep Learning` `Computer Vision`
 
 <p align="center">
   <a href="https://github.com/malavika2003/ImageClassification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malavika2003&repo=ImageClassification&theme=transparent&hide_border=true" />
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 </td>
-
 </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/malavika2003?tab=repositories">
-    <img src="https://img.shields.io/badge/✨%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/✨%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
+# 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+<p align="center">
+
+<a href="https://github.com/malavika2003?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+</a>
+
+<a href="https://github.com/malavika2003?tab=stars">
+  <img src="https://img.shields.io/github/stars/malavika2003?style=for-the-badge&logo=github&label=Stars%20Received" alt="Stars Received"/>
+</a>
+
+<a href="https://github.com/malavika2003?tab=followers">
+  <img src="https://img.shields.io/github/followers/malavika2003?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>Repository and follower badges update automatically.</i>
+</p>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=malavika2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=malavika2003&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-  height="180"
-  alt="Top Languages"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=malavika2003&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Contribution Activity Graph"
 />
 
 </p>
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=malavika2003&theme=github-compact&hide_border=true&area=true&custom_title=Malavika's%20Contribution%20Graph"
-  alt="Contribution Activity Graph"
-/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -285,42 +260,35 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                  GITHUB TROPHIES                          -->
-<!-- ========================================================= -->
+# 📅 Commit Activity
 
-## 🏆 GitHub Trophies
+<p align="center">
+
+<a href="https://github.com/malavika2003">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=malavika2003&theme=github-compact&hide_border=true&area=false&custom_title=Commit%20Activity"
+    alt="Commit Activity"
+  />
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Journey
 
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=malavika2003&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6"
-  alt="GitHub Trophies"
+  src="https://raw.githubusercontent.com/malavika2003/malavika2003/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
 />
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                CONTRIBUTION SNAKE                         -->
-<!-- ========================================================= -->
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/malavika2003/malavika2003/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
----
-
-<!-- ========================================================= -->
-<!--                      CONNECT                              -->
-<!-- ========================================================= -->
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -344,14 +312,11 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                        FOOTER                             -->
-<!-- ========================================================= -->
-
 <p align="center">
   <i>💡 Build. Learn. Experiment. Repeat.</i>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
+```
