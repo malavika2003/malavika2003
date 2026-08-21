@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
@@ -228,10 +228,6 @@ Deep learning project focused on image classification.
 
 </p>
 
-<p align="center">
-  <i>Repository and follower badges update automatically.</i>
-</p>
-
 ---
 
 # 📈 Contribution Activity
@@ -319,4 +315,4 @@ Deep learning project focused on image classification.
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-```
+
